@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masterclass AI for Backoffice | Khám Phá 4 Use Cases Cốt Lõi</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --primary-color: #2563eb;
+            --secondary-color: #4f46e5;
+            --accent-color: #06b6d4;
+            --card-bg: #ffffff;
+            --card-border: #e2e8f0;
+            --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+            --card-shadow-hover: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+            --gradient-primary: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 100px 0 60px;
+            text-align: center;
+            background: radial-gradient(circle at top right, rgba(37, 99, 235, 0.05), transparent 400px), 
+                        radial-gradient(circle at top left, rgba(6, 182, 212, 0.05), transparent 400px);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 6px 16px;
+            background: rgba(37, 99, 235, 0.1);
+            color: var(--primary-color);
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 24px;
+            letter-spacing: 0.05em;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 24px;
+            background: var(--gradient-primary);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            max-width: 800px;
+            margin: 0 auto 40px;
+        }
+
+        /* Section Title */
+        .section-title {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .section-title h2 {
+            font-size: 2.25rem;
+            font-weight: 700;
+            margin-bottom: 16px;
+        }
+
+        .section-title p {
+            color: var(--text-secondary);
+            font-size: 1.125rem;
+        }
+
+        /* Features/Use Cases Grid */
+        .use-cases {
+            padding: 60px 0 100px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 32px;
+        }
+
+        @media (max-width: 768px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 20px;
+            padding: 40px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: var(--card-shadow);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--card-shadow-hover);
+            border-color: rgba(37, 99, 235, 0.3);
+        }
+
+        .card-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+
+        .icon-blue { background: rgba(37, 99, 235, 0.1); color: #2563eb; }
+        .icon-indigo { background: rgba(79, 70, 229, 0.1); color: #4f46e5; }
+        .icon-cyan { background: rgba(6, 182, 212, 0.1); color: #06b6d4; }
+        .icon-emerald { background: rgba(16, 185, 129, 0.1); color: #10b981; }
+
+        .card h3 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .card-content {
+            color: var(--text-secondary);
+            font-size: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            flex-grow: 1;
+        }
+
+        .card-content strong {
+            color: var(--text-primary);
+        }
+
+        .divider {
+            height: 1px;
+            background: var(--card-border);
+            margin: 8px 0;
+        }
+
+        .btn-link {
+            display: inline-flex;
+            align-items: center;
+            color: var(--primary-color);
+            font-weight: 600;
+            text-decoration: none;
+            gap: 8px;
+            margin-top: auto;
+            transition: gap 0.2s ease;
+        }
+
+        .btn-link:hover {
+            gap: 12px;
+        }
+
+
+
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--card-border);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <span class="badge">VERSION 1.0</span>
+            <h1>MASTERCLASS AI FOR BACKOFFICE</h1>
+            <p>Ứng dụng AI Agent (Antigravity) nhằm tự động hóa các quy trình cốt lõi khối Nhân sự (HR) & Mua sắm (Procurement). Học qua hành (Learning by doing) cùng hệ sinh thái thực tiễn.</p>
+        </div>
+    </section>
+
+    <!-- Use Cases Section -->
+    <section class="use-cases">
+        <div class="container">
+            <div class="section-title">
+                <h2>Lộ Trình 4 Use Case Cốt Lõi</h2>
+                <p>Nắm bắt các bài toán phổ biến nhất và học cách dùng AI Agent giải quyết ngay tức thì.</p>
+            </div>
+
+            <div class="grid">
+                <!-- UC 01 -->
+                <div class="card">
+                    <div class="card-icon icon-blue">💼</div>
+                    <h3>Thiết kế Poster Tuyển Dụng Nhanh</h3>
+                    <div class="card-content">
+                        <p><strong>Vấn đề:</strong> Phụ thuộc vào Designer/IT để cập nhật nội dung thiết kế, chậm trễ ra mắt chiến dịch.</p>
+                        <div class="divider"></div>
+                        <p><strong>Giải pháp AI:</strong> Từ file JD thô, AI tạo tự động thiết kế một chiếc Poster (HTML/Pageless PDF) chuyên nghiệp, tự gắn logo/banner mà không cần ai lập trình.</p>
+                    </div>
+                </div>
+
+                <!-- UC 02 -->
+                <div class="card">
+                    <div class="card-icon icon-indigo">📊</div>
+                    <h3>Phân Tích & So Sánh Báo Giá "Vạn Năng"</h3>
+                    <div class="card-content">
+                        <p><strong>Vấn đề:</strong> Cân não đối chiếu hàng trăm hạng mục từ nhiều file báo giá hỗn tạp (Procurement/Purchasing).</p>
+                        <div class="divider"></div>
+                        <p><strong>Giải pháp AI:</strong> Tự động số hóa báo giá thô sang file CSV dọc. Sau đó tạo "Báo Cáo Chiến Lược" đối đầu giữa các nhà thầu, hiển thị ngay trên HTML để giúp bạn tối ưu đàm phán.</p>
+                    </div>
+                </div>
+
+                <!-- UC 03 -->
+                <div class="card">
+                    <div class="card-icon icon-cyan">🗂️</div>
+                    <h3>Số Hóa & Trích Xuất CV Hàng Loạt</h3>
+                    <div class="card-content">
+                        <p><strong>Vấn đề:</strong> Nỗi đau lớn nhất khi gõ lại thông tin ứng viên từ hàng trăm file PDF/Word khác nhau vào Excel.</p>
+                        <div class="divider"></div>
+                        <p><strong>Giải pháp AI:</strong> Máy tự động duyệt toàn bộ Folder, đọc hiểu từ CV/Cover Letter, bóc tách chính xác các trường dữ liệu và thả gọn vào file CSV tổng hợp tổng quan.</p>
+                    </div>
+                </div>
+
+                <!-- UC 04 -->
+                <div class="card">
+                    <div class="card-icon icon-emerald">📈</div>
+                    <h3>Tạo Dashboard Báo Cáo Nhân Sự</h3>
+                    <div class="card-content">
+                        <p><strong>Vấn đề:</strong> Có dữ liệu nhưng HR mất quá nhiều thời gian tạo báo cáo, kéo thả biểu đồ trên excel thủ công.</p>
+                        <div class="divider"></div>
+                        <p><strong>Giải pháp AI:</strong> Từ file dữ liệu Master, AI tự phân tích và lập trình 1 trang HTML Dashboard tương tác trực tiếp với Chart.js chỉ thông qua 1 câu lệnh (Prompt).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Masterclass AI for Backoffice. Tự động hóa - Đột phá hiệu suất.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
