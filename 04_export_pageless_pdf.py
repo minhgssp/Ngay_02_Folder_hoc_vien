@@ -55,7 +55,7 @@ def convert_html_to_pageless_pdf(html_path, pdf_path=None):
     print(f"✅ Đã cập nhật file PDF: {pdf_path}")
 
 if __name__ == "__main__":
-    target_html = r"c:\commandcenter\08_Ylake\02_Production\C01_Masterclass_HR_AI\Session_02_Thuchanh\khoa-hoc-ai-hr\Bai_1_Tuyen_Dung\UC_01_JD_To_Landing_Page\landing_page.html"
+    target_html = r"c:\commandcenter\08_Ylake\02_Production\C01_Masterclass_HR_AI\Session_02_Thuchanh\khoa-hoc-ai-hr\Bai_1_Tuyen_Dung\UC_01_JD_To_Landing_Page\poster_tuyen_dung.html"
     if len(sys.argv) > 1: target_html = sys.argv[1]
     
     if os.path.exists(target_html):
