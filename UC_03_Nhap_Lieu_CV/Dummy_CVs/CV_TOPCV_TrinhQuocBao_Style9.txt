@@ -1,0 +1,29 @@
+==========================================================
+HỒ SƠ CÁ NHÂN: TRỊNH QUỐC BẢO
+VỊ TRỊ: KỸ SƯ GIẢI PHÁP MẠNG & BẢO MẬT (NETWORK SECURITY)
+==========================================================
+
+[ GIỚI THIỆU ]
+Kỹ sư hệ thống với 5 năm kinh nghiệm thực chiến trong việc 
+bảo vệ hạ tầng thông tin doanh nghiệp trước các rủi ro an ninh mạng.
+
+[ LIÊN HỆ ]
+SĐT: 0899-666-888
+Email: bao.tq@security-network.net
+Địa chỉ: Q. Bình Thạnh, TP. HCM
+
+[ QUÁ TRÌNH LÀM VIỆC ]
++ NETWORK ENGINEER | HPT TECHNOLOGIES | 2021 - HIỆN TẠI
+  - Thiết kế và triển khai hạ tầng mạng cho các tập đoàn tài chính.
+  - Xử lý sự cố và tối ưu hoá đường truyền.
++ IT SUPPORT | startup FINTECH | 2019 - 2021
+  - Hỗ trợ hạ tầng mạng và bảo mật thiết bị đầu cuối.
+
+[ CHỨNG CHỈ & KỸ NĂNG ]
+- CCNP Enterprise, CEH (Certified Ethical Hacker).
+- Cấu hình Firewall Cisco, Fortinet, Palo Alto.
+- Tiếng Anh kỹ thuật thành thạo.
+
+[ HỌC VẤN ]
+- ĐH Giao thông vận tải TP. HCM - Chuyên ngành Điện tử Viễn thông.
+==========================================================

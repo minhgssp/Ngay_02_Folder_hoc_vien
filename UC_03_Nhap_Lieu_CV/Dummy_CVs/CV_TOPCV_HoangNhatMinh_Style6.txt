@@ -1,0 +1,27 @@
+RESUME: HOÀNG NHẬT MINH
+POSITION: FINANCIAL ANALYST
+
+[SUMMARY]
+CFA Level 2 candidate with a strong background in financial modeling, 
+equity research, and valuation.
+
+[CONTACT]
+Mob: 0888-222-333
+Mail: minh.hn@finance-pro.vn
+Address: District 7, HCMC
+
+[EXPERIENCE]
+# ANALYST | SSI SECURITIES CORPORATION (2022 - PRESENT)
+- Perform equity analysis for the retail and banking sectors.
+- Generate weekly investment reports for institutional clients.
+# JUNIOR ACCOUNTANT | BIG 4 AUDIT FIRM (2020 - 2022)
+- Conducted financial audits for listed manufacturing companies.
+
+[SKILLS]
+- Financial Modeling (Excel VBA Proficiency).
+- Valuation (DCF, Multiples).
+- English: Business Fluent (IELTS 8.0).
+
+[ACADEMICS]
+- Bachelor of Finance - University of Economics Ho Chi Minh City (UEH).
+- CFA Level 1 Passed.

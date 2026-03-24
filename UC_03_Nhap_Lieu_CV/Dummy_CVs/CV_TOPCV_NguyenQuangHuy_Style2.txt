@@ -1,0 +1,23 @@
+--- THÔNG TIN ỨNG VIÊN ---
+Họ tên: NGUYỄN QUANG HUY
+Ngày sinh: 25/08/1996
+Chỗ ở: Q.1, TP. Hồ Chí Minh
+Liên hệ: 0901-555-666 | huy.nq@outlook.com
+
+--- TÓM TẮT NĂNG LỰC ---
+Lập trình viên Fullstack với tư duy hệ thống và khả năng giải quyết vấn đề phức tạp. Chuyên sâu về Node.js và kiến trúc Microservices.
+
+--- QUÁ TRÌNH LÀM VIỆC ---
+> SENIOR DEVELOPER | TIKI VIETNAM | 06/2021 - NAY
+  - Tái cấu trúc hệ thống thanh toán, giảm latency xuống 30%.
+  - Hướng dẫn đội ngũ 3 Junior Developers.
+> BACKEND DEV | FPT SOFTWARE | 08/2018 - 05/2021
+  - Tham gia dự án thương mại điện tử lớn với khách hàng USA.
+
+--- KỸ NĂNG CÔNG NGHỆ ---
+1. Ngôn ngữ: JavaScript (Node.js), TypeScript, Go.
+2. Cơ sở dữ liệu: MongoDB, PostgreSQL, Redis.
+3. DevOps: Docker, K8s, Gitlab CI.
+
+--- HỌC VẤN ---
+Kỹ sư phần mềm - Đại học CNTT (UIT) - ĐHQG TP.HCM.

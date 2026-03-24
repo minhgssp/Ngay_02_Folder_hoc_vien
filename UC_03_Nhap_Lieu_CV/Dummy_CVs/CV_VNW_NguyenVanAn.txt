@@ -1,0 +1,18 @@
+SƠ YẾU LÝ LỊCH
+Họ và tên: Nguyễn Văn An
+Ngày sinh: 15/08/1997
+Địa chỉ: Quận Cầu Giấy, TP. Hà Nội
+Email: an.nguyen@email.com
+SDT: 0912345678
+Vị trí ứng tuyển: Senior Backend Developer
+Mục tiêu nghề nghiệp: Mong muốn áp dụng chuyên môn hệ thống để phát triển các sản phẩm công nghệ có tính mở rộng cao, tiến tới vai trò Tech Lead.
+Học vấn: Đại học Bách Khoa Hà Nội (Tốt nghiệp loại Giỏi, GPA 3.3/4.0)
+
+Kinh nghiệm làm việc:
+- 2021-2024: Backend Developer tại Ylake Company (3 năm kinh nghiệm). Thiết kế và xây dựng API API, tối ưu hóa hệ thống cơ sở dữ liệu.
+- 2019-2021: Junior Web Developer tại ABC Tech (2 năm kinh nghiệm). Phát triển module quản lý người dùng và tích hợp thanh toán.
+
+Kỹ năng:
+- Ngôn ngữ lập trình: Python, Java, SQL.
+- Công nghệ & Công cụ: Docker, Git, AWS, RESTful API.
+- Kỹ năng mềm: Giải quyết vấn đề, Làm việc nhóm theo mô hình Agile/Scrum.

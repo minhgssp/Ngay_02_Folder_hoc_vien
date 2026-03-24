@@ -1,0 +1,29 @@
+//////////////////////////////////////////////////////////
+CV: NGUYỄN DIỆU LINH (CHUYÊN VIÊN PHÂN TÍCH DỮ LIỆU)
+//////////////////////////////////////////////////////////
+
+* THÔNG TIN CÁ NHÂN *
+- Email: linh.nd@data-insights.com
+- SĐT: 0399-444-555
+- Link: linkedin.com/in/linhdieunguyen
+
+* TÓM LƯỢC *
+Sử dụng toán học và thống kê để "kể chuyện" bằng con số. 
+Kinh nghiệm xử lý tập dữ liệu lớn trong lĩnh vực Retail.
+
+* KINH NGHIỆM *
+> DATA ANALYST | WINCOMMERCE (2022 - NAY)
+  - Tối ưu chuỗi cung ứng bằng mô hình dự báo nhu cầu.
+  - Xây dựng dashboard tự động báo cáo doanh thu theo giờ.
+> RESEARCH ASSISTANT | NIELSENIQ (2020 - 2022)
+  - Hỗ trợ khảo sát thị trường và tổng hợp dữ liệu hành vi.
+
+* KỸ NĂNG CỨNG *
+- Python (Pandas, Scikit-learn).
+- Tableau & Power BI.
+- SQL (Phân tích truy vấn phức tạp).
+
+* HỌC VẤN / CHỨNG CHỈ *
+- Cử nhân Toán Kinh tế - ĐH Kinh tế Quốc dân (NEU).
+- Google Data Analytics Professional Certificate.
+//////////////////////////////////////////////////////////

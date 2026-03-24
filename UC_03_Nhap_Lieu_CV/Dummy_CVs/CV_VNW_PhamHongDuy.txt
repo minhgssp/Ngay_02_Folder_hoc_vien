@@ -1,0 +1,18 @@
+SƠ YẾU LÝ LỊCH
+Họ và tên: Phạm Hồng Duy
+Ngày sinh: 05/01/1998
+Địa chỉ: Quận Thanh Xuân, TP. Hà Nội
+Email: duy.ph@email.com
+SDT: 0914223344
+Vị trí ứng tuyển: Frontend Developer
+Mục tiêu nghề nghiệp: Trở thành chuyên gia thiết kế trải nghiệm người dùng Front-end (UX/UI focus).
+Học vấn: Đại học Công nghệ - ĐHQGHN
+
+Kinh nghiệm làm việc:
+- 2022-2024: Frontend Developer tại Vingroup (VinAI). Phát triển dashboard theo dõi dữ liệu xe điện.
+- 2020-2022: Web Developer tại startup Gapo. Tối ưu performance cho ứng dụng ReactJS.
+
+Kỹ năng:
+- ReactJS, Next.js, Tailwind CSS.
+- Figma, Adobe XD.
+- Kỹ năng làm việc độc lập và tư duy thẩm mỹ tốt.

@@ -1,0 +1,18 @@
+SƠ YẾU LÝ LỊCH
+Họ và tên: Trương Vĩnh Nam
+Ngày sinh: 19/05/1993
+Địa chỉ: Quận Sơn Trà, TP. Đà Nẵng
+Email: nam.tv@email.com
+SDT: 0944333222
+Vị trí ứng tuyển: Data Analyst
+Mục tiêu nghề nghiệp: Chuyển hoá dữ liệu thô thành cái nhìn chiến lược để hỗ trợ các quyết định kinh doanh.
+Học vấn: Đại học Kinh tế Đà Nẵng (Thống kê kinh doanh)
+
+Kinh nghiệm làm việc:
+- 2021-2024: Data Analyst tại VNPay. Phân tích hành vi tiêu dùng và đề xuất chương trình khuyến mãi.
+- 2017-2021: QC Data tại Lazada Vietnam. Kiểm soát chất lượng dữ liệu sản phẩm trên sàn thương mại điện tử.
+
+Kỹ năng:
+- SQL (Advanced), Python (Pandas/Matplotlib), Tableau.
+- Xử lý dữ liệu lớn (Big Data).
+- Tư duy logic mạnh mẽ.

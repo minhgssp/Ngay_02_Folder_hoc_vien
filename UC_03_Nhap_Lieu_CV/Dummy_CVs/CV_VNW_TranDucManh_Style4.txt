@@ -1,0 +1,27 @@
+*********************************************
+* CV: TRẦN ĐỨC MẠNH | KIẾN TRÚC SƯ GIẢI PHÁP *
+*********************************************
+
+GIỚI THIỆU:
+Hơn 10 năm kinh nghiệm trong ngành IT, chuyên thiết kế và triển khai các hệ thống 
+doanh nghiệp quy mô lớn (Enterprise Solutions).
+
+KẾT QUẢ CÔNG TÁC:
+1. SOLUTION ARCHITECT | TECHCOMBANK (2020 - Nay)
+   - Thiết kế kiến trúc nền tảng ngân hàng số mới nhất.
+   - Tư vấn chiến lược chuyển đổi lên Cloud (AWS/Azure).
+2. SENIOR SYSTEM ENGINEER | VIETTEL (2014 - 2020)
+   - Vận hành hạ tầng mạng viễn thông quốc gia.
+
+BOX KỸ NĂNG:
+- Platform: Cloud Computing, Microservices, Event-driven.
+- Security: ISO 27001, OWASP.
+- Soft Skills: Cố vấn kỹ thuật, Thuyết trình cấp C-level.
+
+LIÊN HỆ:
+- Email: manh.td@cloud-architect.pro
+- SĐT: 0912-333-444
+- Địa chỉ: Tây Hồ, Hà Nội
+
+HỌ CẤN:
+- Thạc sĩ KH Máy tính - ĐH Bách Khoa Hà Nội.

@@ -1,0 +1,18 @@
+SƠ YẾU LÝ LỊCH
+Họ và tên: Hoàng Quốc Đạt
+Ngày sinh: 14/02/1994
+Địa chỉ: Quận Liên Chiểu, TP. Đà Nẵng
+Email: dat.hq@email.com
+SDT: 0888999000
+Vị trí ứng tuyển: DevOps Engineer
+Mục tiêu nghề nghiệp: Chuyên nghiệp hoá quy trình CI/CD và đảm bảo tính sẵn sàng cao của hệ thống.
+Học vấn: Đại học Bách Khoa Đà Nẵng
+
+Kinh nghiệm làm việc:
+- 2020-2024: Senior DevOps tại CMC Global. Xây dựng hạ tầng trên Google Cloud Platform cho dự án ngân hàng.
+- 2016-2020: System Administrator tại Viettel. Vận hành hệ thống server quy mô lớn.
+
+Kỹ năng:
+- Docker, Kubernetes, Jenkins, Terraform.
+- Scripting (Bash, Python).
+- Linux Server Management.
